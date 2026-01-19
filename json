@@ -1,0 +1,19 @@
+{
+  "details": {
+    "description": "Twilight Chronicle is an immersive idle RPG set in a magical fantasy world. Features include:\n\n• Auto-battle system for effortless gameplay\n• Hundreds of unique heroes to collect\n• Epic storyline with captivating quests\n• Guild system for multiplayer interaction\n• Regular updates with new content",
+    "features": [
+      "Stunning 3D graphics",
+      "Offline progression",
+      "PVP Arena battles",
+      "Dungeon exploration",
+      "Equipment crafting system"
+    ],
+    "requirements": {
+      "android": "5.0 and up",
+      "storage": "1GB free space",
+      "ram": "2GB minimum"
+    },
+    "updated": "2024-01-15",
+    "version": "1.2.4"
+  }
+}
